@@ -27,3 +27,13 @@ will retrieve the image sent
 This call will delete from both AWS and database the image and details
 
 Database sql create schema is available on the server/db_schema/aws_store.sql
+
+### PLEASE NOTE!
+
+An AWS account and bucket creation is required before lanching this project.
+
+You can check the official documentation here : 
+
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/creating-bucket.html
+
+
